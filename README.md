@@ -6,9 +6,9 @@
 
 ### Welcome
 
-你将打开的是dynamo教学手册第一版本。
+你将打开的是Dynamo教学手册第一版本。
 一个编程指南由Autodesk Dynamo 指南
-这篇文章是分享dynamo运作的基本原理。主要包括处理几何、规则图形的参数化,跨学科的编程应用程序,和更多的Dynamo平台。
+这篇文章是分享Dynamo运作的基本原理。主要包括处理几何、规则图形的参数化,跨学科的编程应用程序,和更多的Dynamo平台。
 
 
 Dynamo可以设计各种相关的行为。Dynamo可以不断扩大,有以下的方法：
@@ -22,7 +22,7 @@ Dynamo可以设计各种相关的行为。Dynamo可以不断扩大,有以下的�
 在这个过程中，实用Dynamo都会令人兴奋，我们需要一个文档[Dynamo 中文手册]
 
 
-这个版本是在之前开发dynamo语言手册基础之上的的Dynamoprimer。这些章节重点是需要自己去学习的.这也是这本书的价值所在.
+这个版本是在之前开发Dynamo语言手册基础之上的的Dynamoprimer。这些章节重点是需要自己去学习的.这也是这本书的价值所在.
 
 
 * **视觉编程** -“视觉编程”是什么概念我需要了解Dynamo吗?
@@ -40,10 +40,10 @@ Dynamo可以设计各种相关的行为。Dynamo可以不断扩大,有以下的�
 一个激动人心的时学习刻即将来了,让我们一起开始Dynamo的学习吧！
 
 ---
-###  dynamo指导项目
+###  Dynamo指导项目
 
 
-dynamo是个开源项目,由马特Jezyk和Autodesk的Dynamo的开发团队共开发.
+Dynamo是个开源项目,由马特Jezyk和Autodesk的Dynamo的开发团队共开发.
 
 
 * **实验室模式**  委托编写的第一版指导教材。http://modelab.is
@@ -76,7 +76,7 @@ Dynamo在GitHub GitHub Dynamo是一个开源开发项目。提供是DynamoDS伊�
 
 https://github.com/ikeough/Dynamo
 
-dynamo在github中文翻译的提供地址为 https://github.comxiebinhqyh/dynamochina
+Dynamo在github中文翻译的提供地址为 https://github.comxiebinhqyh/dynamochina
 
 这一部分正在翻译中，里边如有翻译不正确希望指出，大家一起来完善.
 
@@ -92,10 +92,3 @@ http://www.apache.org/licenses/LICENSE-2.0
 除非适用法律要求或书面同意,在许可证下发布的软件是分布在一个“是”的基础上,没有任何形式的保证或条件,无论是明示或默示。看到许可下的特定语言管理权限和限制许可证。
 
 谢谢！ Deattor 2015
-
-
-
-
-
-
-
