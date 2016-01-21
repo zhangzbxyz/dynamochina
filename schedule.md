@@ -1,13 +1,13 @@
 | 总目录        | 子目录        | 翻译进度 %  | 译者 |
 | ------------- |-------------|:-----:|:-----:|
-|01 入门基础    |||
-||(1)可视化编程的定义||
-||(2)Dynamo的定义||
-||(3)Dynamo的功能||
-|02 Dynamo|||
+|01 入门基础    ||100%|xiebinhqy
+||(1)可视化编程的定义|90%|xiebinhqy
+||(2)Dynamo的定义|100%|xiebinhqy
+||(3)Dynamo的功能|100%|xiebinhqy
+|02 Dynamo||100%|xiebinhqy
 ||(1)安装和运行软件||
 ||(2)Dynamo的用户界面||
-||(3)Dynamo的工作区||
+||(3)Dynamo的工作区|100%|xiebinhqy
 ||(4)Dynamo的入门指南||
 |03 可视化程序分析|||
 ||(1)Dynamo 节点||
@@ -23,7 +23,7 @@
 |05 几何计算设计|||
 ||(1)Dynamo 几何概述||
 ||(2)Dynamo 向量系统||
-||(3)Dynamo 点的运用||
+||(3)Dynamo 点的运用|100%|
 ||(4)Dynamo 曲线的运用||
 ||(5)Dynamo 曲面的运用||
 ||(6)Dynamo 立方体的运用||
@@ -34,7 +34,7 @@
 ||(3)List 的基本运用||
 ||(4)List 的多层次数据运用||
 |07 Clock Block|||
-||(1)什么是Clock Block||zhangzbxyz
+||(1)什么是Clock Block|100|zhangzbxyz
 ||(2)DesignScript语法||zhangzbxyz
 ||(3)代码的简写||zhangzbxyz
 ||(4)函数||zhangzbxyz
@@ -58,7 +58,7 @@
 ||(4)Dynamo节点包发布||
 ||(5)Dynamo节点案列说明||
 |10 Dy附录|||
-||(1)Dy资源||
+||(1)Dy资源|100%|xiebinhqy
 ||(2)Dy索引节点||
 ||(3)Dy常用包||
 ||(4)Dy教程案列文件||
