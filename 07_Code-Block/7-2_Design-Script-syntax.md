@@ -1,20 +1,21 @@
-## DesignScript Syntax
+##DesignScript的语法
 You may have noticed a common theme in the names of nodes in Dynamo: each node uses a *"."* syntax without spaces.  This is because the text at the top of each node respresents the actual syntax for scripting, and the *"."* (or *dot notation*) separates an element from the possible methods we can call.  This creates an easy translation from visual scripting to text-based scripting.
-
+你可能注意到了每个Dynamo的节点名里都带有.”,这是因为节点名跟脚本中的代码是一样的
 ![NodeNames](images/7-2/apple.jpg)
 
 As a general analogy for the dot notation, how can we deal with a parametric apple in Dynamo? Below are a few methods we'll run on the apple before deciding to eat it. (Note: these are not actual Dynamo methods):
 
-| Humanly Readible | Dot Notation | Output |
-| -- | -- |
-| What color is the apple? | Apple.color | red
-| Is the apple ripe? | Apple.isRipe | true |
-| How much does the apple weigh? | Apple.weight | 6 oz. |
-| Where did the apple come from? | Apple.parent | tree |
-| What does the apple create? | Apple.children | seeds |
-| Is this apple locally grown? | Apple.distanceFromOrchard | 60 mi. |
+| 人类语言 | 机器语言 | 输出 |
+| -- | -- | -- |
+| 苹果的颜色？ | Apple.color | red
+| 苹果熟了吗？ | Apple.isRipe | true |
+| 苹果的重量？| Apple.weight | 6 oz. |
+| 苹果来自哪？ | Apple.parent | tree |
+| 苹果产出什么？ | Apple.children | seeds |
+| 苹果的产地有多远？ | Apple.distanceFromOrchard | 60 mi. |
 
 I don't know about you, but judging by the outputs in the table above, this looks like one tasty apple.  I think I'll *Apple.eat() *it.
+不知道你是怎么觉得的，我是觉得这个苹果应该很甜。我
 
 ###Dot Notation in Code Block
 With the apple analogy in mind, let's look at *Point.ByCoordinates* and show how we can create a point using the code block:
